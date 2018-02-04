@@ -1,0 +1,11 @@
+{
+  "name": "steamfcsocketserver",
+  "version": "1.0.0",
+  "description": "Socket server to communicate with arduino",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jackie Ngo",
+  "license": "ISC"
+}
